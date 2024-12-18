@@ -55,7 +55,5 @@ Este projeto é de **código aberto** e pode ser utilizado, modificado e distrib
 ## Contribuições
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se à vontade para abrir um **pull request** ou **issue**.
-
 ---
-
 Aproveite a calculadora e cuide da sua saúde com mais facilidade! 💪
